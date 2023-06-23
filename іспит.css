@@ -1,0 +1,24 @@
+body{
+background-color: lightblue;	
+}
+p{
+	font-size: 20px;
+
+}
+.first{
+	text-indent: 2%;
+	font-family: 'Amatic SC', cursive;
+}
+.second{
+	font-family: "Arial", cursive;
+	color: red;
+	text-indent: 2%;
+}
+.third{
+	text-indent: 2%;
+	color: blue;
+}
+.fourth{
+	text-indent: 2%;
+	color: blue;
+}
